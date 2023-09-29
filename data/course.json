@@ -1,0 +1,65 @@
+{
+  "term": "Spring",
+  "year": "2010",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Mechanical Design"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Developmental Economics"
+    ],
+    [
+      "Engineering"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Sustainability"
+    ],
+    [
+      "Society",
+      "The Developing World"
+    ]
+  ],
+  "legacy_uid": "aaa5ea6a-b7a5-c93e-c9f7-9c02baff7c2d",
+  "instructors": {
+    "content": [
+      "7c23a4e0-d0b3-e062-153d-1643b885fc1c",
+      "c3c65357-5f84-58c8-83ec-a0b17f8f9825"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "1e7f669f-9a7b-0af8-094f-cf5119d01820",
+    "website": "ec-720j-d-lab-ii-design-spring-2010"
+  },
+  "course_title": "D-Lab II: Design",
+  "course_description": "D-Lab: Design addresses problems faced by undeserved communities with a focus on design, experimentation, and prototyping processes. Particular attention is placed on constraints faced when designing for developing countries. Multidisciplinary teams work on semester-long projects in collaboration with community partners, field practitioners, and experts in relevant fields. Topics covered include design for affordability, design for manufacture, sustainability, and strategies for working effectively with community partners and customers. Students may continue projects begun in [_EC.701J D-Lab I: Development_](courses/sp-721-d-lab-i-development-fall-2009).\n",
+  "department_numbers": [
+    "EC",
+    "2"
+  ],
+  "extra_course_numbers": "2.722J",
+  "primary_course_number": "EC.720J",
+  "course_image_thumbnail": {
+    "content": "79b36c02-c0b1-4338-4abe-ac170fb97bd2",
+    "website": "ec-720j-d-lab-ii-design-spring-2010"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Projects with Examples",
+    "Design Assignments",
+    "Written Assignments",
+    "Activity Assignments with Examples"
+  ],
+  "site_uid": "8379cb37-272b-465e-9bb0-59481033048d",
+  "site_short_id": "ec.720j-spring-2010",
+  "title": "Course Metadata"
+}

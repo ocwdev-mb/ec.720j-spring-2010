@@ -1,0 +1,49 @@
+leftnav:
+- identifier: 09d70b66-f424-54b8-5c37-8286882e2de8
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 941d511d-f895-24a7-0786-5e0927cb87b9
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 10999552-d6e4-9e27-8659-6670d978b383
+  name: Course Notes
+  pageRef: /pages/course-notes/
+  weight: 30
+- identifier: 8cf79971-3ec0-7248-49f7-a534d4ade705
+  name: Readings
+  pageRef: /pages/readings
+  weight: 40
+- identifier: 7de564ad-e990-22dc-2767-fa0ca78cc00d
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 50
+- identifier: 09caf566-8d6e-f72e-9ff3-345ff88b541e
+  name: Projects
+  pageRef: /pages/projects/
+  weight: 60
+- identifier: 847d1373-8175-d031-2e33-812b4a075e47
+  name: 'Design Packet: Introduction'
+  pageRef: /pages/projects/intro
+  parent: 09caf566-8d6e-f72e-9ff3-345ff88b541e
+  weight: 70
+- identifier: 8bf07c65-c715-c581-74ce-9e7f832e2882
+  name: 'Design Packet Phase 1: Information'
+  pageRef: /pages/projects/info
+  parent: 09caf566-8d6e-f72e-9ff3-345ff88b541e
+  weight: 80
+- identifier: 7ec2a491-2680-f360-db84-9406e364960d
+  name: 'Design Packet Phase 2: Ideas'
+  pageRef: /pages/projects/ideas
+  parent: 09caf566-8d6e-f72e-9ff3-345ff88b541e
+  weight: 90
+- identifier: 5614b82e-b4c0-f36d-4242-a706bc3047a5
+  name: 'Design Packet Phase 3: Implementation'
+  pageRef: /pages/projects/impl
+  parent: 09caf566-8d6e-f72e-9ff3-345ff88b541e
+  weight: 100
+- identifier: 076c7da4-6534-216f-761b-74b48c9f68d2
+  name: Design Resources
+  pageRef: /pages/related-resources
+  weight: 110
